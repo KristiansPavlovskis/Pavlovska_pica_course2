@@ -1,10 +1,10 @@
 # Git_Picērija :pizza:
-Java Project kas demonstrē Git un GitHub lietojumu: "Picērijas programma"
+<h2>Java Project kas demonstrē Git un GitHub lietojumu: "Picērijas programma"<h2>
 
 ![Picērijas attēls](https://i.imgur.com/Ke3EBeL.png)
 ### *Darāmo darbu saraksts*
 - [X] Objekta izveide
-- [ ] Ielikt ievadītās sastāvdaļas citā failā
+- [x] Ielikt ievadītās sastāvdaļas citā failā
 - [X] klase uzstaisīta lai izvēlētos pirkt picu uz vietas vai pasūtīt
 - [X] klase izveidota priekš picas īzmēra izvēles
 - [X] klase priekš mērces ievades
